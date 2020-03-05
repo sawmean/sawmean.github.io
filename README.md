@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome My Journey Blog
 
 You can use the [editor on GitHub](https://github.com/sawmean/sawmean.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
